@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zscf.inhouse</string>
+				<string>com.zscf.inhouseapp</string>
 				<key>bundle-version</key>
-                                <string>6.15</string>
+                                <string>6.16</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌上财富V6.15内部测试版</string>
+				<string>掌上财富V6.16内部测试版</string>
 			</dict>
 		</dict>
 	</array>
