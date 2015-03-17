@@ -18,6 +18,8 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.zscf.inhouseapp</string>
+				<key>bundle-version</key>
+                                <string>6.16</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
