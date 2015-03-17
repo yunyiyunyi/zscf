@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zscf.inhouseapp</string>
+				<string>com.zscf.inhouse</string>
 				<key>bundle-version</key>
                                 <string>6.15</string>
 				<key>kind</key>
